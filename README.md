@@ -29,13 +29,13 @@ All steps are fully constructive and provably immune to classical lifting attack
 
 ### Citation
 ```bibtex
-@article{yourname2025kappa,
+@article{Syams B. Idris,
   title={κ-Ramanujan Graphs: Explicit Near-Ramanujan Graphs of Arbitrary Degree},
-  author={Your Name and Grok 4},
+  author={Syams B Idris},
   year={2025},
   month={December},
   archivePrefix={arXiv},
   primaryClass={math.CO},
   doi={10.5281/zenodo.10529471},
-  url={https://github.com/your-username/kappa-ramanujan-graphs}
+  url={https://github.com/Syamsuddin/K-Ramanujan-Graph
 }
