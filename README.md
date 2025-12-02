@@ -1,6 +1,6 @@
 # κ-Ramanujan Graphs  
 **Explicit Near-Ramanujan Graphs of Arbitrary Degree**  
-DOI: https://doi.org/10.5281/zenodo.10529471  
+DOI: https://zenodo.org/records/17784604  
 arXiv: coming soon (January 2026)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
