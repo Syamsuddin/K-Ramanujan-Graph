@@ -36,6 +36,6 @@ All steps are fully constructive and provably immune to classical lifting attack
   month={December},
   archivePrefix={arXiv},
   primaryClass={math.CO},
-  doi={10.5281/zenodo.10529471},
+  doi={10.5281/zenodo.17784604},
   url={https://github.com/Syamsuddin/K-Ramanujan-Graph
 }
